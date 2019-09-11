@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1255d08c-fbaa-46f8-bd8e-7dbdface976d" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\META-INF\Mybatis实现.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\Test001.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\entity\User.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\mapper\ExtUserMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\orm\MybatisInvocationHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\orm\SQLSession.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\orm\annotation\ExtInsert.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\orm\annotation\ExtParam.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\orm\annotation\ExtSelect.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\utils\JDBCUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\整体\新建文件夹\Mybatis实现\target\classes\com\huang\utils\SQLUtils.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/demo/orm/MybatisInvocationHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/demo/orm/MybatisInvocationHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1255d08c-fbaa-46f8-bd8e-7dbdface976d" name="Default" comment="" />
     <ignored path="Mybatis.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -568,12 +554,12 @@
       <created>1568191588988</created>
       <option name="number" value="Default" />
       <updated>1568191588988</updated>
-      <workItem from="1568191590285" duration="1886000" />
+      <workItem from="1568191590285" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1886000" />
+    <option name="totallyTimeSpent" value="1938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
